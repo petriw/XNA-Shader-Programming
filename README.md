@@ -52,7 +52,7 @@
 
 [25 – Perlin Noise on the GPU ][25]
 
-[26 – Bump Mapping Perlin Noise# XNA-Shader-Programming][26]
+[26 – Bump Mapping Perlin Noise][26]
 
 
 [1]: https://digitalerr0r.wordpress.com/2009/03/23/xna-shader-programming-tutorial-1-ambient-light/
