@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Shader.fx</Source>
+      <Name>Shader</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Programming\MyTutorials\ShaderTutorial\Tutorial14_Transmittance\Tutorial14_Transmittance\Tutorial14_Transmittance\bin\x86\Debug\Content\Shader.xnb</Output>
+      <Time>2009-05-01T21:15:53.0589872+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PostProcess.fx</Source>
+      <Name>PostProcess</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Programming\MyTutorials\ShaderTutorial\Tutorial14_Transmittance\Tutorial14_Transmittance\Tutorial14_Transmittance\bin\x86\Debug\Content\PostProcess.xnb</Output>
+      <Time>2009-05-01T21:34:23.0635872+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Overlay.png</Source>
+      <Name>Overlay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Programming\MyTutorials\ShaderTutorial\Tutorial14_Transmittance\Tutorial14_Transmittance\Tutorial14_Transmittance\bin\x86\Debug\Content\Overlay.xnb</Output>
+      <Time>2009-05-01T16:37:18.5969872+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ColorMap.jpg</Source>
+      <Name>ColorMap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Programming\MyTutorials\ShaderTutorial\Tutorial14_Transmittance\Tutorial14_Transmittance\Tutorial14_Transmittance\bin\x86\Debug\Content\ColorMap.xnb</Output>
+      <Time>2009-05-01T16:30:01.0787872+02:00</Time>
+    </Item>
+    <Item>
+      <Source>BGScene.jpg</Source>
+      <Name>BGScene</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Programming\MyTutorials\ShaderTutorial\Tutorial14_Transmittance\Tutorial14_Transmittance\Tutorial14_Transmittance\bin\x86\Debug\Content\BGScene.xnb</Output>
+      <Time>2009-05-01T22:51:34.3345872+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Object.X</Source>
+      <Name>Object</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Programming\MyTutorials\ShaderTutorial\Tutorial14_Transmittance\Tutorial14_Transmittance\Tutorial14_Transmittance\bin\x86\Debug\Content\Object.xnb</Output>
+      <Time>2009-03-23T19:23:42.6681107+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Object_0.xml</Key>
+        <Value>2009-05-01T23:08:46.2035872+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Object.X</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Object_0.xml</Output>
+      <Time>2009-03-23T19:23:42.6681107+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>G:\Programming\MyTutorials\ShaderTutorial\Tutorial14_Transmittance\Tutorial14_Transmittance\Tutorial14_Transmittance\Content\</RootDirectory>
+      <LoggerRootDirectory>G:\Programming\MyTutorials\ShaderTutorial\Tutorial14_Transmittance\Tutorial14_Transmittance\Tutorial14_Transmittance\</LoggerRootDirectory>
+      <IntermediateDirectory>G:\Programming\MyTutorials\ShaderTutorial\Tutorial14_Transmittance\Tutorial14_Transmittance\Tutorial14_Transmittance\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>G:\Programming\MyTutorials\ShaderTutorial\Tutorial14_Transmittance\Tutorial14_Transmittance\Tutorial14_Transmittance\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2008-10-10T17:42:32+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2008-10-10T17:43:28+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2008-10-10T17:43:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2008-10-10T17:48:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2008-10-10T17:48:50+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2009-04-15T17:37:33.0739605+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

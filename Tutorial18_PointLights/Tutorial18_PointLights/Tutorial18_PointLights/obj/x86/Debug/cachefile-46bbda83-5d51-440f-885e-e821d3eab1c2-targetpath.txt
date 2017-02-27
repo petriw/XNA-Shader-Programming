@@ -1,0 +1,10 @@
+Content\Shader.xnb
+Content\sphere.xnb
+Content\abstract2.xnb
+Content\ObjectMeteor.xnb
+Content\Object.xnb
+Content\normal.xnb
+Content\stone.xnb
+Content\Overlay.xnb
+Content\diffuse_test.xnb
+Content\normal_test.xnb

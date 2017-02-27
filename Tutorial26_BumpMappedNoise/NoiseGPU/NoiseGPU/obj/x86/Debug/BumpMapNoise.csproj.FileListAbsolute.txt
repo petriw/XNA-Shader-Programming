@@ -1,0 +1,9 @@
+D:\Programming\MyTutorials\ShaderTutorial\FunctionsOfNoise\NoiseGPU\NoiseGPU\bin\x86\Debug\Content\PerlinNoiseEffect.xnb
+D:\Programming\MyTutorials\ShaderTutorial\FunctionsOfNoise\NoiseGPU\NoiseGPU\bin\x86\Debug\Content\sphere.xnb
+D:\Programming\MyTutorials\ShaderTutorial\FunctionsOfNoise\NoiseGPU\NoiseGPU\bin\x86\Debug\Content\Object.xnb
+D:\Programming\MyTutorials\ShaderTutorial\FunctionsOfNoise\NoiseGPU\NoiseGPU\bin\x86\Debug\NoiseGPU.exe
+D:\Programming\MyTutorials\ShaderTutorial\FunctionsOfNoise\NoiseGPU\NoiseGPU\bin\x86\Debug\NoiseGPU.pdb
+D:\Programming\MyTutorials\ShaderTutorial\FunctionsOfNoise\NoiseGPU\NoiseGPU\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programming\MyTutorials\ShaderTutorial\FunctionsOfNoise\NoiseGPU\NoiseGPU\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Programming\MyTutorials\ShaderTutorial\FunctionsOfNoise\NoiseGPU\NoiseGPU\obj\x86\Debug\NoiseGPU.exe
+D:\Programming\MyTutorials\ShaderTutorial\FunctionsOfNoise\NoiseGPU\NoiseGPU\obj\x86\Debug\NoiseGPU.pdb

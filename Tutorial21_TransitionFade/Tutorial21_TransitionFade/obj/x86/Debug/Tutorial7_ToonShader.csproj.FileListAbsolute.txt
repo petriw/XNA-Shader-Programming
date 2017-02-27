@@ -1,0 +1,11 @@
+F:\XNA Utvikler kurs\Basics\7_Toon\Tutorial7_ToonShader\Tutorial7_ToonShader\bin\x86\Debug\Content\Object.xnb
+F:\XNA Utvikler kurs\Basics\7_Toon\Tutorial7_ToonShader\Tutorial7_ToonShader\bin\x86\Debug\Content\Shader.xnb
+F:\XNA Utvikler kurs\Basics\7_Toon\Tutorial7_ToonShader\Tutorial7_ToonShader\bin\x86\Debug\Tutorial7_ToonShader.exe
+F:\XNA Utvikler kurs\Basics\7_Toon\Tutorial7_ToonShader\Tutorial7_ToonShader\bin\x86\Debug\Tutorial7_ToonShader.pdb
+F:\XNA Utvikler kurs\Basics\7_Toon\Tutorial7_ToonShader\Tutorial7_ToonShader\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\XNA Utvikler kurs\Basics\7_Toon\Tutorial7_ToonShader\Tutorial7_ToonShader\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\XNA Utvikler kurs\Basics\7_Toon\Tutorial7_ToonShader\Tutorial7_ToonShader\obj\x86\Debug\Tutorial7_ToonShader.exe
+F:\XNA Utvikler kurs\Basics\7_Toon\Tutorial7_ToonShader\Tutorial7_ToonShader\obj\x86\Debug\Tutorial7_ToonShader.pdb
+F:\XNA Utvikler kurs\Basics\7_Toon\Tutorial7_ToonShader\Tutorial7_ToonShader\bin\x86\Debug\Content\ColorMap.xnb
+F:\XNA Utvikler kurs\Basics\7_Toon\Tutorial7_ToonShader\Tutorial7_ToonShader\bin\x86\Debug\Content\Toon.xnb
+F:\XNA Utvikler kurs\Basics\7_Toon\Tutorial7_ToonShader\Tutorial7_ToonShader\bin\x86\Debug\Content\OutLineShader.xnb

@@ -1,0 +1,4 @@
+Content\Shader.xnb
+Content\glossmap.xnb
+Content\sphere.xnb
+Content\colormap.xnb

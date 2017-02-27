@@ -1,0 +1,17 @@
+G:\Programming\MyTutorials\ShaderTutorial\Tutorial24_Bloom\BloomExample\bin\x86\Debug\Content\Shader.xnb
+G:\Programming\MyTutorials\ShaderTutorial\Tutorial24_Bloom\BloomExample\bin\x86\Debug\Content\Blur.xnb
+G:\Programming\MyTutorials\ShaderTutorial\Tutorial24_Bloom\BloomExample\bin\x86\Debug\Content\Bloom.xnb
+G:\Programming\MyTutorials\ShaderTutorial\Tutorial24_Bloom\BloomExample\bin\x86\Debug\Content\BloomCombine.xnb
+G:\Programming\MyTutorials\ShaderTutorial\Tutorial24_Bloom\BloomExample\bin\x86\Debug\Content\model_diff.xnb
+G:\Programming\MyTutorials\ShaderTutorial\Tutorial24_Bloom\BloomExample\bin\x86\Debug\Content\model_norm.xnb
+G:\Programming\MyTutorials\ShaderTutorial\Tutorial24_Bloom\BloomExample\bin\x86\Debug\Content\model_spec.xnb
+G:\Programming\MyTutorials\ShaderTutorial\Tutorial24_Bloom\BloomExample\bin\x86\Debug\Content\model_alpha.xnb
+G:\Programming\MyTutorials\ShaderTutorial\Tutorial24_Bloom\BloomExample\bin\x86\Debug\Content\Object.xnb
+G:\Programming\MyTutorials\ShaderTutorial\Tutorial24_Bloom\BloomExample\bin\x86\Debug\Content\ObjectA.xnb
+G:\Programming\MyTutorials\ShaderTutorial\Tutorial24_Bloom\BloomExample\bin\x86\Debug\Content\model_diff_0.xnb
+G:\Programming\MyTutorials\ShaderTutorial\Tutorial24_Bloom\BloomExample\bin\x86\Debug\Tutorial4_NormalMapping.exe
+G:\Programming\MyTutorials\ShaderTutorial\Tutorial24_Bloom\BloomExample\bin\x86\Debug\Tutorial4_NormalMapping.pdb
+G:\Programming\MyTutorials\ShaderTutorial\Tutorial24_Bloom\BloomExample\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Programming\MyTutorials\ShaderTutorial\Tutorial24_Bloom\BloomExample\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Programming\MyTutorials\ShaderTutorial\Tutorial24_Bloom\BloomExample\obj\x86\Debug\Tutorial4_NormalMapping.exe
+G:\Programming\MyTutorials\ShaderTutorial\Tutorial24_Bloom\BloomExample\obj\x86\Debug\Tutorial4_NormalMapping.pdb

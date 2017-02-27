@@ -1,0 +1,20 @@
+F:\XNA Utvikler kurs\Basics\XNA 3.0\4_NormalMapping\Tutorial4_NormalMapping\Tutorial4_NormalMapping\bin\x86\Debug\Content\Shader.xnb
+F:\XNA Utvikler kurs\Basics\XNA 3.0\4_NormalMapping\Tutorial4_NormalMapping\Tutorial4_NormalMapping\bin\x86\Debug\Content\sphere.xnb
+F:\XNA Utvikler kurs\Basics\XNA 3.0\4_NormalMapping\Tutorial4_NormalMapping\Tutorial4_NormalMapping\bin\x86\Debug\Content\normal.xnb
+F:\XNA Utvikler kurs\Basics\XNA 3.0\4_NormalMapping\Tutorial4_NormalMapping\Tutorial4_NormalMapping\bin\x86\Debug\Content\stone.xnb
+F:\XNA Utvikler kurs\Basics\XNA 3.0\4_NormalMapping\Tutorial4_NormalMapping\Tutorial4_NormalMapping\bin\x86\Debug\Tutorial4_NormalMapping.exe
+F:\XNA Utvikler kurs\Basics\XNA 3.0\4_NormalMapping\Tutorial4_NormalMapping\Tutorial4_NormalMapping\bin\x86\Debug\Tutorial4_NormalMapping.pdb
+F:\XNA Utvikler kurs\Basics\XNA 3.0\4_NormalMapping\Tutorial4_NormalMapping\Tutorial4_NormalMapping\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\XNA Utvikler kurs\Basics\XNA 3.0\4_NormalMapping\Tutorial4_NormalMapping\Tutorial4_NormalMapping\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\XNA Utvikler kurs\Basics\XNA 3.0\4_NormalMapping\Tutorial4_NormalMapping\Tutorial4_NormalMapping\obj\x86\Debug\Tutorial4_NormalMapping.exe
+F:\XNA Utvikler kurs\Basics\XNA 3.0\4_NormalMapping\Tutorial4_NormalMapping\Tutorial4_NormalMapping\obj\x86\Debug\Tutorial4_NormalMapping.pdb
+C:\Users\petriw\Desktop\Tutorial4_NormalMapping\Tutorial4_NormalMapping\Tutorial4_NormalMapping\bin\x86\Debug\Content\Shader.xnb
+C:\Users\petriw\Desktop\Tutorial4_NormalMapping\Tutorial4_NormalMapping\Tutorial4_NormalMapping\bin\x86\Debug\Content\sphere.xnb
+C:\Users\petriw\Desktop\Tutorial4_NormalMapping\Tutorial4_NormalMapping\Tutorial4_NormalMapping\bin\x86\Debug\Content\normal.xnb
+C:\Users\petriw\Desktop\Tutorial4_NormalMapping\Tutorial4_NormalMapping\Tutorial4_NormalMapping\bin\x86\Debug\Content\stone.xnb
+C:\Users\petriw\Desktop\Tutorial4_NormalMapping\Tutorial4_NormalMapping\Tutorial4_NormalMapping\bin\x86\Debug\Tutorial4_NormalMapping.exe
+C:\Users\petriw\Desktop\Tutorial4_NormalMapping\Tutorial4_NormalMapping\Tutorial4_NormalMapping\bin\x86\Debug\Tutorial4_NormalMapping.pdb
+C:\Users\petriw\Desktop\Tutorial4_NormalMapping\Tutorial4_NormalMapping\Tutorial4_NormalMapping\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\petriw\Desktop\Tutorial4_NormalMapping\Tutorial4_NormalMapping\Tutorial4_NormalMapping\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\petriw\Desktop\Tutorial4_NormalMapping\Tutorial4_NormalMapping\Tutorial4_NormalMapping\obj\x86\Debug\Tutorial4_NormalMapping.exe
+C:\Users\petriw\Desktop\Tutorial4_NormalMapping\Tutorial4_NormalMapping\Tutorial4_NormalMapping\obj\x86\Debug\Tutorial4_NormalMapping.pdb

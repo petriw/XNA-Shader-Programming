@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Graphics="Microsoft.Xna.Framework.Graphics" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Shader.fx</Source>
+      <Name>Shader</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Programming\MyTutorials\ShaderTutorial\Tutorial24_Bloom\BloomExample\bin\x86\Debug\Content\Shader.xnb</Output>
+      <Time>2009-10-04T18:37:06.6058128+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Blur.fx</Source>
+      <Name>Blur</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Programming\MyTutorials\ShaderTutorial\Tutorial24_Bloom\BloomExample\bin\x86\Debug\Content\Blur.xnb</Output>
+      <Time>2009-10-04T18:45:58.2708128+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Bloom.fx</Source>
+      <Name>Bloom</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Programming\MyTutorials\ShaderTutorial\Tutorial24_Bloom\BloomExample\bin\x86\Debug\Content\Bloom.xnb</Output>
+      <Time>2009-10-04T13:57:58.9078128+02:00</Time>
+    </Item>
+    <Item>
+      <Source>BloomCombine.fx</Source>
+      <Name>BloomCombine</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Programming\MyTutorials\ShaderTutorial\Tutorial24_Bloom\BloomExample\bin\x86\Debug\Content\BloomCombine.xnb</Output>
+      <Time>2009-10-04T18:49:45.9708128+02:00</Time>
+    </Item>
+    <Item>
+      <Source>model_diff.jpg</Source>
+      <Name>model_diff</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Programming\MyTutorials\ShaderTutorial\Tutorial24_Bloom\BloomExample\bin\x86\Debug\Content\model_diff.xnb</Output>
+      <Time>2009-10-04T17:45:58.5588128+02:00</Time>
+    </Item>
+    <Item>
+      <Source>model_norm.jpg</Source>
+      <Name>model_norm</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Programming\MyTutorials\ShaderTutorial\Tutorial24_Bloom\BloomExample\bin\x86\Debug\Content\model_norm.xnb</Output>
+      <Time>2009-10-04T17:45:43.0508128+02:00</Time>
+    </Item>
+    <Item>
+      <Source>model_spec.jpg</Source>
+      <Name>model_spec</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Programming\MyTutorials\ShaderTutorial\Tutorial24_Bloom\BloomExample\bin\x86\Debug\Content\model_spec.xnb</Output>
+      <Time>2009-10-04T17:44:47.1888128+02:00</Time>
+    </Item>
+    <Item>
+      <Source>model_alpha.jpg</Source>
+      <Name>model_alpha</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Programming\MyTutorials\ShaderTutorial\Tutorial24_Bloom\BloomExample\bin\x86\Debug\Content\model_alpha.xnb</Output>
+      <Time>2009-09-28T18:22:53.0540161+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Object.X</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Object_0.xml</Output>
+      <Time>2009-03-23T19:53:30.6207107+01:00</Time>
+    </Item>
+    <Item>
+      <Source>ObjectA.X</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\ObjectA_0.xml</Output>
+      <Time>2009-09-27T12:54:53.8200072+02:00</Time>
+    </Item>
+    <Item>
+      <Source>model_diff.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>G:\Programming\MyTutorials\ShaderTutorial\Tutorial24_Bloom\BloomExample\bin\x86\Debug\Content\model_diff_0.xnb</Output>
+      <Time>2009-10-04T17:45:58.5588128+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Object.X</Source>
+      <Name>Object</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateTangentFrames">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>G:\Programming\MyTutorials\ShaderTutorial\Tutorial24_Bloom\BloomExample\bin\x86\Debug\Content\Object.xnb</Output>
+      <Time>2009-03-23T19:53:30.6207107+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Object_0.xml</Key>
+        <Value>2009-10-04T18:32:20.1068128+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>ObjectA.X</Source>
+      <Name>ObjectA</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateTangentFrames">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>G:\Programming\MyTutorials\ShaderTutorial\Tutorial24_Bloom\BloomExample\bin\x86\Debug\Content\ObjectA.xnb</Output>
+      <Time>2009-09-27T12:54:53.8200072+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\ObjectA_0.xml</Key>
+        <Value>2009-10-04T18:32:20.2588128+02:00</Value>
+      </Dependency>
+      <Request>G:\Programming\MyTutorials\ShaderTutorial\Tutorial24_Bloom\BloomExample\bin\x86\Debug\Content\model_diff_0.xnb</Request>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>G:\Programming\MyTutorials\ShaderTutorial\Tutorial24_Bloom\BloomExample\Content\</RootDirectory>
+      <LoggerRootDirectory>G:\Programming\MyTutorials\ShaderTutorial\Tutorial24_Bloom\BloomExample\</LoggerRootDirectory>
+      <IntermediateDirectory>G:\Programming\MyTutorials\ShaderTutorial\Tutorial24_Bloom\BloomExample\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>G:\Programming\MyTutorials\ShaderTutorial\Tutorial24_Bloom\BloomExample\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-14T11:13:52+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-14T11:13:52+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-14T11:13:52+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-14T11:13:52+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-14T11:13:52+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2009-08-12T23:54:05.1646077+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

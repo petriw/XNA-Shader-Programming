@@ -1,0 +1,7 @@
+Content\Object.xnb
+Content\Object2.xnb
+Content\Shader.xnb
+Content\PostProcess.xnb
+Content\ColorMap.xnb
+Content\Bg.xnb
+Content\Bg2.xnb

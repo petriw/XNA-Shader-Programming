@@ -1,0 +1,6 @@
+F:\XNA Utvikler kurs\Basics\XNA 3.0\4_NormalMapping\Tutorial4_NormalMapping\Tutorial4_NormalMapping\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\petri.wilhelmsen\Desktop\Tutorial4_NormalMapping\Tutorial4_NormalMapping\Tutorial4_NormalMapping\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\petri.wilhelmsen\Desktop\Tutorial17_PointLight\Tutorial17_PointLight\Tutorial17_PointLight\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\petriw\Desktop\Tutorial17_PointLight\Tutorial18_PointLights\Tutorial17_PointLight\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\petriw\Desktop\Tutorial17_PointLight\Tutorial18_PointLights\Tutorial18_PointLights\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\petriw\Desktop\Tutorial18_PointLights\Tutorial18_PointLights\Tutorial18_PointLights\Content\obj\x86\Debug\ResolveAssemblyReference.cache

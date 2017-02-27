@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Object.X</Source>
+      <Name>Object</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA Utvikler kurs\Basics\7_Toon\Tutorial7_ToonShader\Tutorial7_ToonShader\bin\x86\Debug\Content\Object.xnb</Output>
+      <Time>2007-08-14T21:56:06.125+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Object_0.xml</Key>
+        <Value>2009-03-22T20:19:38.0545153+01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Shader.fx</Source>
+      <Name>Shader</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA Utvikler kurs\Basics\7_Toon\Tutorial7_ToonShader\Tutorial7_ToonShader\bin\x86\Debug\Content\Shader.xnb</Output>
+      <Time>2009-03-22T22:19:59.7429153+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Object.X</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Object_0.xml</Output>
+      <Time>2007-08-14T21:56:06.125+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ColorMap.jpg</Source>
+      <Name>ColorMap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA Utvikler kurs\Basics\7_Toon\Tutorial7_ToonShader\Tutorial7_ToonShader\bin\x86\Debug\Content\ColorMap.xnb</Output>
+      <Time>2009-03-22T20:23:48.5461153+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Toon.bmp</Source>
+      <Name>Toon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA Utvikler kurs\Basics\7_Toon\Tutorial7_ToonShader\Tutorial7_ToonShader\bin\x86\Debug\Content\Toon.xnb</Output>
+      <Time>2009-03-22T20:43:21.9883153+01:00</Time>
+    </Item>
+    <Item>
+      <Source>OutLineShader.fx</Source>
+      <Name>OutLineShader</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA Utvikler kurs\Basics\7_Toon\Tutorial7_ToonShader\Tutorial7_ToonShader\bin\x86\Debug\Content\OutLineShader.xnb</Output>
+      <Time>2009-03-22T22:30:46.0457153+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>F:\XNA Utvikler kurs\Basics\7_Toon\Tutorial7_ToonShader\Tutorial7_ToonShader\Content\</RootDirectory>
+      <LoggerRootDirectory>F:\XNA Utvikler kurs\Basics\7_Toon\Tutorial7_ToonShader\Tutorial7_ToonShader\</LoggerRootDirectory>
+      <IntermediateDirectory>F:\XNA Utvikler kurs\Basics\7_Toon\Tutorial7_ToonShader\Tutorial7_ToonShader\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>F:\XNA Utvikler kurs\Basics\7_Toon\Tutorial7_ToonShader\Tutorial7_ToonShader\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2008-10-10T18:42:32+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2008-10-10T18:43:28+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2008-10-10T18:43:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2008-10-10T18:48:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2008-10-10T18:48:50+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2008-11-30T17:22:52.9932841+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial1_Ambient", "Tutorial1_Ambient\Tutorial1_Ambient.csproj", "{E1BEA55E-83A6-4CFB-8269-7AB33B95EAC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1BEA55E-83A6-4CFB-8269-7AB33B95EAC8}.Debug|x86.ActiveCfg = Debug|x86
+		{E1BEA55E-83A6-4CFB-8269-7AB33B95EAC8}.Debug|x86.Build.0 = Debug|x86
+		{E1BEA55E-83A6-4CFB-8269-7AB33B95EAC8}.Release|x86.ActiveCfg = Release|x86
+		{E1BEA55E-83A6-4CFB-8269-7AB33B95EAC8}.Release|x86.Build.0 = Release|x86
+		{65E07D89-BF8F-412A-BEE2-ACFFAFDD7B66}.Debug|x86.ActiveCfg = Debug|x86
+		{65E07D89-BF8F-412A-BEE2-ACFFAFDD7B66}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

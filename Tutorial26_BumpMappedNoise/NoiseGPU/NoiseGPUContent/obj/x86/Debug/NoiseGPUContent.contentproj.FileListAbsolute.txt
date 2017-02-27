@@ -1,0 +1,2 @@
+D:\Programming\MyTutorials\ShaderTutorial\Tutorial25_NoiseGPU\NoiseGPU\NoiseGPUContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programming\MyTutorials\ShaderTutorial\FunctionsOfNoise\NoiseGPU\NoiseGPUContent\obj\x86\Debug\ResolveAssemblyReference.cache

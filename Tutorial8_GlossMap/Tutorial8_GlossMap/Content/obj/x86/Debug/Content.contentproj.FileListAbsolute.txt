@@ -1,0 +1,1 @@
+F:\XNA Utvikler kurs\Basics\XNA 3.0\8_GlossMap\Tutorial8_GlossMap\Tutorial8_GlossMap\Content\obj\x86\Debug\ResolveAssemblyReference.cache

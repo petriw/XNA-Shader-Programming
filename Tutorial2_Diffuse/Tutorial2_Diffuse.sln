@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial2_Diffuse", "Tutorial2_Diffuse\Tutorial2_Diffuse.csproj", "{44109A37-D954-4376-907A-C517E3EF46C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44109A37-D954-4376-907A-C517E3EF46C1}.Debug|x86.ActiveCfg = Debug|x86
+		{44109A37-D954-4376-907A-C517E3EF46C1}.Debug|x86.Build.0 = Debug|x86
+		{44109A37-D954-4376-907A-C517E3EF46C1}.Release|x86.ActiveCfg = Release|x86
+		{44109A37-D954-4376-907A-C517E3EF46C1}.Release|x86.Build.0 = Release|x86
+		{D30B6BB6-7B09-437C-BFD4-47BA7BE8B5DA}.Debug|x86.ActiveCfg = Debug|x86
+		{D30B6BB6-7B09-437C-BFD4-47BA7BE8B5DA}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

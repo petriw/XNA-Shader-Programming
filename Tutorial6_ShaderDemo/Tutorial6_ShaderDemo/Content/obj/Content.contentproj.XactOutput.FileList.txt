@@ -1,0 +1,3 @@
+Content\Music.xgs
+Content\wave.xwb
+Content\sound.xsb

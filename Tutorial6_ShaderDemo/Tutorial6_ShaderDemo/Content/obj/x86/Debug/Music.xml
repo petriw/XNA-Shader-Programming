@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sections>
+  <WaveBank Name="wave">Wave Bank
+{
+    Name = wave;
+    Xbox File = Xbox\wave.xwb;
+    Windows File = Win\wave.xwb;
+    Xbox Bank Path Edited = 0;
+    Windows Bank Path Edited = 0;
+    Seek Tables = 1;
+    Compression Preset Name = &lt;none&gt;;
+    Bank Last Revised Low = 3451782358;
+    Bank Last Revised High = 29925984;
+
+    Wave
+    {
+        Name = soundscape_wav;
+        File = soundscape_wav.wav;
+        Build Settings Last Modified Low = 3424170358;
+        Build Settings Last Modified High = 29925984;
+        Compression Preset Name = comp;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 15876000;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 760418358;
+            Last Modified High = 29925984;
+        }
+    }
+
+    Wave
+    {
+        Name = soundscape_wav2;
+        File = soundscape_wav2.wav;
+        Build Settings Last Modified Low = 3451626358;
+        Build Settings Last Modified High = 29925984;
+        Compression Preset Name = comp;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 15876000;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1046366358;
+            Last Modified High = 29925984;
+        }
+    }
+}
+
+</WaveBank>
+</Sections>

@@ -1,0 +1,317 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Graphics="Microsoft.Xna.Framework.Graphics" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Basic.fx</Source>
+      <Name>Basic</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA Utvikler kurs\Basics\XNA 3.0\6_ShaderDemo\Tutorial6_ShaderDemo\Tutorial6_ShaderDemo\bin\x86\Debug\Content\Basic.xnb</Output>
+      <Time>2009-03-23T21:54:35.3205107+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Shader.fx</Source>
+      <Name>Shader</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA Utvikler kurs\Basics\XNA 3.0\6_ShaderDemo\Tutorial6_ShaderDemo\Tutorial6_ShaderDemo\bin\x86\Debug\Content\Shader.xnb</Output>
+      <Time>2009-03-23T21:54:32.1849107+01:00</Time>
+    </Item>
+    <Item>
+      <Source>fy_faen_ass.X</Source>
+      <Name>fy_faen_ass</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA Utvikler kurs\Basics\XNA 3.0\6_ShaderDemo\Tutorial6_ShaderDemo\Tutorial6_ShaderDemo\bin\x86\Debug\Content\fy_faen_ass.xnb</Output>
+      <Time>2009-03-23T21:54:30.0165107+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\fy_faen_ass_0.xml</Key>
+        <Value>2009-03-23T21:57:38.0901107+01:00</Value>
+      </Dependency>
+      <Request>F:\XNA Utvikler kurs\Basics\XNA 3.0\6_ShaderDemo\Tutorial6_ShaderDemo\Tutorial6_ShaderDemo\bin\x86\Debug\Content\island_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Ocean.fx</Source>
+      <Name>OceanFX</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA Utvikler kurs\Basics\XNA 3.0\6_ShaderDemo\Tutorial6_ShaderDemo\Tutorial6_ShaderDemo\bin\x86\Debug\Content\OceanFX.xnb</Output>
+      <Time>2009-03-23T21:54:32.1225107+01:00</Time>
+    </Item>
+    <Item>
+      <Source>ocean.X</Source>
+      <Name>ocean</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA Utvikler kurs\Basics\XNA 3.0\6_ShaderDemo\Tutorial6_ShaderDemo\Tutorial6_ShaderDemo\bin\x86\Debug\Content\ocean.xnb</Output>
+      <Time>2009-03-23T21:54:32.1537107+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\ocean_0.xml</Key>
+        <Value>2009-03-23T21:57:47.5281107+01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>sandra.X</Source>
+      <Name>sandra</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA Utvikler kurs\Basics\XNA 3.0\6_ShaderDemo\Tutorial6_ShaderDemo\Tutorial6_ShaderDemo\bin\x86\Debug\Content\sandra.xnb</Output>
+      <Time>2009-03-23T21:54:32.1693107+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\sandra_0.xml</Key>
+        <Value>2009-03-23T21:57:50.1333107+01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>sphere.x</Source>
+      <Name>sphere</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA Utvikler kurs\Basics\XNA 3.0\6_ShaderDemo\Tutorial6_ShaderDemo\Tutorial6_ShaderDemo\bin\x86\Debug\Content\sphere.xnb</Output>
+      <Time>2009-03-23T21:54:35.1957107+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\sphere_0.xml</Key>
+        <Value>2009-03-23T21:57:51.7089107+01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>wavesbump.dds</Source>
+      <Name>wavesbump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA Utvikler kurs\Basics\XNA 3.0\6_ShaderDemo\Tutorial6_ShaderDemo\Tutorial6_ShaderDemo\bin\x86\Debug\Content\wavesbump.xnb</Output>
+      <Time>2009-03-23T21:54:35.2425107+01:00</Time>
+    </Item>
+    <Item>
+      <Source>foam.png</Source>
+      <Name>foam</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA Utvikler kurs\Basics\XNA 3.0\6_ShaderDemo\Tutorial6_ShaderDemo\Tutorial6_ShaderDemo\bin\x86\Debug\Content\foam.xnb</Output>
+      <Time>2009-03-23T21:54:35.3361107+01:00</Time>
+    </Item>
+    <Item>
+      <Source>island.bmp</Source>
+      <Name>island2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA Utvikler kurs\Basics\XNA 3.0\6_ShaderDemo\Tutorial6_ShaderDemo\Tutorial6_ShaderDemo\bin\x86\Debug\Content\island2.xnb</Output>
+      <Time>2009-03-23T21:54:30.0945107+01:00</Time>
+    </Item>
+    <Item>
+      <Source>island.jpg</Source>
+      <Name>island</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA Utvikler kurs\Basics\XNA 3.0\6_ShaderDemo\Tutorial6_ShaderDemo\Tutorial6_ShaderDemo\bin\x86\Debug\Content\island.xnb</Output>
+      <Time>2009-03-23T21:54:30.1413107+01:00</Time>
+    </Item>
+    <Item>
+      <Source>islandNormal.jpg</Source>
+      <Name>islandNormal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA Utvikler kurs\Basics\XNA 3.0\6_ShaderDemo\Tutorial6_ShaderDemo\Tutorial6_ShaderDemo\bin\x86\Debug\Content\islandNormal.xnb</Output>
+      <Time>2009-03-23T21:54:30.4065107+01:00</Time>
+    </Item>
+    <Item>
+      <Source>normal.jpg</Source>
+      <Name>normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA Utvikler kurs\Basics\XNA 3.0\6_ShaderDemo\Tutorial6_ShaderDemo\Tutorial6_ShaderDemo\bin\x86\Debug\Content\normal.xnb</Output>
+      <Time>2009-03-23T21:54:31.9509107+01:00</Time>
+    </Item>
+    <Item>
+      <Source>normalIdentity.jpg</Source>
+      <Name>normalIdentity</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA Utvikler kurs\Basics\XNA 3.0\6_ShaderDemo\Tutorial6_ShaderDemo\Tutorial6_ShaderDemo\bin\x86\Debug\Content\normalIdentity.xnb</Output>
+      <Time>2009-03-23T21:54:31.9665107+01:00</Time>
+    </Item>
+    <Item>
+      <Source>normBumpy.jpg</Source>
+      <Name>normBumpy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA Utvikler kurs\Basics\XNA 3.0\6_ShaderDemo\Tutorial6_ShaderDemo\Tutorial6_ShaderDemo\bin\x86\Debug\Content\normBumpy.xnb</Output>
+      <Time>2009-03-23T21:54:32.0757107+01:00</Time>
+    </Item>
+    <Item>
+      <Source>sky_dome.png</Source>
+      <Name>sky_dome</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA Utvikler kurs\Basics\XNA 3.0\6_ShaderDemo\Tutorial6_ShaderDemo\Tutorial6_ShaderDemo\bin\x86\Debug\Content\sky_dome.xnb</Output>
+      <Time>2009-03-23T21:54:32.2161107+01:00</Time>
+    </Item>
+    <Item>
+      <Source>sky_dome2.png</Source>
+      <Name>sky_dome2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA Utvikler kurs\Basics\XNA 3.0\6_ShaderDemo\Tutorial6_ShaderDemo\Tutorial6_ShaderDemo\bin\x86\Debug\Content\sky_dome2.xnb</Output>
+      <Time>2009-03-23T21:54:32.2629107+01:00</Time>
+    </Item>
+    <Item>
+      <Source>water.jpg</Source>
+      <Name>water</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA Utvikler kurs\Basics\XNA 3.0\6_ShaderDemo\Tutorial6_ShaderDemo\Tutorial6_ShaderDemo\bin\x86\Debug\Content\water.xnb</Output>
+      <Time>2009-03-23T21:54:35.2113107+01:00</Time>
+    </Item>
+    <Item>
+      <Source>waterNormal.png</Source>
+      <Name>waterNormal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA Utvikler kurs\Basics\XNA 3.0\6_ShaderDemo\Tutorial6_ShaderDemo\Tutorial6_ShaderDemo\bin\x86\Debug\Content\waterNormal.xnb</Output>
+      <Time>2009-03-23T21:54:35.2269107+01:00</Time>
+    </Item>
+    <Item>
+      <Source>xnacolor.png</Source>
+      <Name>xnacolor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA Utvikler kurs\Basics\XNA 3.0\6_ShaderDemo\Tutorial6_ShaderDemo\Tutorial6_ShaderDemo\bin\x86\Debug\Content\xnacolor.xnb</Output>
+      <Time>2009-03-23T21:54:35.2581107+01:00</Time>
+    </Item>
+    <Item>
+      <Source>xnalpha.png</Source>
+      <Name>xnalpha</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA Utvikler kurs\Basics\XNA 3.0\6_ShaderDemo\Tutorial6_ShaderDemo\Tutorial6_ShaderDemo\bin\x86\Debug\Content\xnalpha.xnb</Output>
+      <Time>2009-03-23T21:54:35.2737107+01:00</Time>
+    </Item>
+    <Item>
+      <Source>music.wav</Source>
+      <Name>music</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA Utvikler kurs\Basics\XNA 3.0\6_ShaderDemo\Tutorial6_ShaderDemo\Tutorial6_ShaderDemo\bin\x86\Debug\Content\music.xnb</Output>
+      <Time>2009-03-23T21:54:31.8729107+01:00</Time>
+    </Item>
+    <Item>
+      <Source>soundscape_wav.wav</Source>
+      <Name>soundscape_wav</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA Utvikler kurs\Basics\XNA 3.0\6_ShaderDemo\Tutorial6_ShaderDemo\Tutorial6_ShaderDemo\bin\x86\Debug\Content\soundscape_wav.xnb</Output>
+      <Time>2009-03-23T21:54:33.6201107+01:00</Time>
+    </Item>
+    <Item>
+      <Source>soundscape_wav2.wav</Source>
+      <Name>soundscape_wav2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\XNA Utvikler kurs\Basics\XNA 3.0\6_ShaderDemo\Tutorial6_ShaderDemo\Tutorial6_ShaderDemo\bin\x86\Debug\Content\soundscape_wav2.xnb</Output>
+      <Time>2009-03-23T21:54:35.1489107+01:00</Time>
+    </Item>
+    <Item>
+      <Source>fy_faen_ass.X</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\fy_faen_ass_0.xml</Output>
+      <Time>2009-03-23T21:54:30.0165107+01:00</Time>
+    </Item>
+    <Item>
+      <Source>island.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\XNA Utvikler kurs\Basics\XNA 3.0\6_ShaderDemo\Tutorial6_ShaderDemo\Tutorial6_ShaderDemo\bin\x86\Debug\Content\island_0.xnb</Output>
+      <Time>2009-03-23T21:54:30.0945107+01:00</Time>
+    </Item>
+    <Item>
+      <Source>ocean.X</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\ocean_0.xml</Output>
+      <Time>2009-03-23T21:54:32.1537107+01:00</Time>
+    </Item>
+    <Item>
+      <Source>sandra.X</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\sandra_0.xml</Output>
+      <Time>2009-03-23T21:54:32.1693107+01:00</Time>
+    </Item>
+    <Item>
+      <Source>sphere.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\sphere_0.xml</Output>
+      <Time>2009-03-23T21:54:35.1957107+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>F:\XNA Utvikler kurs\Basics\XNA 3.0\6_ShaderDemo\Tutorial6_ShaderDemo\Tutorial6_ShaderDemo\Content\</RootDirectory>
+      <LoggerRootDirectory>F:\XNA Utvikler kurs\Basics\XNA 3.0\6_ShaderDemo\Tutorial6_ShaderDemo\Tutorial6_ShaderDemo\</LoggerRootDirectory>
+      <IntermediateDirectory>F:\XNA Utvikler kurs\Basics\XNA 3.0\6_ShaderDemo\Tutorial6_ShaderDemo\Tutorial6_ShaderDemo\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>F:\XNA Utvikler kurs\Basics\XNA 3.0\6_ShaderDemo\Tutorial6_ShaderDemo\Tutorial6_ShaderDemo\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2008-10-10T18:42:32+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2008-10-10T18:43:28+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2008-10-10T18:43:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2008-10-10T18:48:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2008-10-10T18:48:50+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2008-11-30T17:22:52.9932841+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

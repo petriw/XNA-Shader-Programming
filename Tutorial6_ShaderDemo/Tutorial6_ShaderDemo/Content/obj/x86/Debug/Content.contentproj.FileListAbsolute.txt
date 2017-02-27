@@ -1,0 +1,2 @@
+F:\XNA Utvikler kurs\Basics\XNA 3.0\6_ShaderDemo\Tutorial6_ShaderDemo\Tutorial6_ShaderDemo\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\XNA Utvikler kurs\Basics\XNA 3.0\6_ShaderDemo\Tutorial6_ShaderDemo\Tutorial6_ShaderDemo\Content\obj\x86\Debug\Music.xml

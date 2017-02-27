@@ -1,0 +1,5 @@
+F:\XNA Utvikler kurs\Basics\7_Toon\Tutorial7_ToonShader\Tutorial7_ToonShader\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Programming\MyTutorials\ShaderTutorial\Tutorial9_PostProcess\Tutorial9_PostProcess\Tutorial9_PostProcess\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Programming\MyTutorials\ShaderTutorial\Tutorial10_PostProcess\Tutorial10_PostProcess\Tutorial10_PostProcess\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Programming\MyTutorials\ShaderTutorial\Tutorial10_PostProcess\Tutorial10_PostProcess\Tutorial12_PostProcess\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Programming\MyTutorials\ShaderTutorial\Tutorial12_PostProcess\Tutorial12_PostProcess\Tutorial12_PostProcess\Content\obj\x86\Debug\ResolveAssemblyReference.cache
